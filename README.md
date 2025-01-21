@@ -13,9 +13,9 @@ Creating reports to identify strengths and weaknesses of the top 100 WTA and ATP
 
 ### Tools Used
 
-Python: for data processing and automation
-ChatGPT API: to analyze the scouting report and extract insights
-Streamlit: for building interactive web application
+* Python: for data processing and automation
+* ChatGPT API: to analyze the scouting report and extract insights
+* Streamlit: for building interactive web application
 
 ### Steps Followed
 
